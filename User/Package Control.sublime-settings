@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1324721426,
+	"installed_packages":
+	[
+		"Case Conversion",
+		"CaseConversion",
+		"ColorPicker",
+		"JsFormat",
+		"sublime-2-zencoding",
+		"sublime_package_control"
+	],
+	"repositories":
+	[
+		"https://github.com/jdc0589/JsFormat",
+		"https://github.com/jdc0589/CaseConversion"
+	]
+}
