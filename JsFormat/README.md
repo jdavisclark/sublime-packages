@@ -1,11 +1,11 @@
 ## Summary
-
-Uses the commandline/python-module javascript formatter from http://jsbeautifier.org/ to format the selected text, 
-or the entire file if there is no selection. Plugin does not check to make sure the buffer has a ".js" file type, 
+JsFormat is a javascipt formatting plugin for Sublime Text 2.
+It uses the commandline/python-module javascript formatter from http://jsbeautifier.org/ to format the selected text, 
+or the entire file if there is no selection. The plugin does not check to make sure the buffer has a ".js" file type, 
 it just javascript formats the selection/file. Thus, use with caution if you are in an html file.
 
 ## Settings
-JsFormat will uses whatever tab character settings are configured with the standard "translate_tabs_to_spaces" and "tab_size" sublime settings.
+JsFormat uses whatever tab character settings are configured with the standard "translate_tabs_to_spaces" and "tab_size" sublime settings.
 
 In addition, the following settings can be overridden in your user file settings (defaults shown below):
 
@@ -34,7 +34,23 @@ package install list.
 
 The default key binding is "ctrl+alt+f"
 
-## Updates
-* 12/3/2011 - Indentation character/count is now pulled from the current sublime settings
-* 8/25/2011 - Added sublime-commands file. "Format: Javascript" now appears in the command palette
-* 8/25/2011 - scrolls back to whatever line you were on prior to formatting the file (middle of screen) rather than leaving the view position at the top of the file after formatting.
+### License
+Copyright (C) 2012 Davis Clark
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
