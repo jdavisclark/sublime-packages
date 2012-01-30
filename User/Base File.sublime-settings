@@ -1,10 +1,4 @@
 {
 	"color_scheme": "Packages/User/Merbivore_Soft.tmTheme",
-	"font_size": 11,
-	"jsformat_brace_style": "collapse",
-	"jsformat_indent_level": 0,
-	"jsformat_jslint_happy": false,
-	"jsformat_keep_array_indentation": false,
-	"jsformat_max_preserve_newlines": 1,
-	"jsformat_preserve_newlines": false
+	"font_size": 11
 }

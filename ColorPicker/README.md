@@ -1,20 +1,25 @@
-**\*\*Linux and OSX only\*\***
+###Mac OSX
+![Mac OSX](http://i.minus.com/i5KI6SBAfs7Qk.png "Mac OS X")
 
+###Linux
 ![Linux](http://i.minus.com/ihwLvn8m29GxZ.png "Linux")
 
-![Mac OSX](http://i.minus.com/i5KI6SBAfs7Qk.png "Mac OSX")
+###Windows
+![Windows](http://i.minus.com/iY1DDCRG5TsyR.png "Windows")
+
+## Installation
+Install this repository via [Package Control](http://wbond.net/sublime_packages/package_control)
 
 
-Source for the original colorpicker plugin for OSX can be found at https://github.com/jnordberg/sublime-colorpick/
+## Usage
+To insert or change a selected color, use:
 
-## installation
+- Linux: `ctrl+shift+c`
+- Windows: `ctrl+shift+c`
+- OS X: `super+shift+c`
 
-Install this repository via "Package Control" plugin http://wbond.net/sublime_packages/package_control
 
-## usage
+## Acknowledgements
 
-####Linux
-`ctrl+shift+c` to insert or change a selected color
-
-####OSX
-`super+shift+c` to insert or change a selected color
+- [Original colorpick plugin for OS X by jnordberg](https://github.com/jnordberg/sublime-colorpick/)
+- [Original colorpick plugin for Windows by animehunter](https://github.com/animehunter/SublimeColorPickerWindowsOnly)
