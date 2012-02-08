@@ -1,0 +1,6 @@
+{
+	"terminal_cmd": "start",
+	"input_widget": {
+		"syntax": "Packages/Batch File/Batch File.tmLanguage"
+	}
+}

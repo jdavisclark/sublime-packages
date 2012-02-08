@@ -1,0 +1,4 @@
+{
+	// untested.  Patches welcome :)
+	"terminal_cmd": "gnome-terminal --tab &"
+}
