@@ -8,8 +8,7 @@
 		"JsFormat",
 		"Shell-Turtlestein",
 		"sublime-2-zencoding",
-		"sublime_package_control",
-		"SublimeLinter"
+		"sublime_package_control"
 	],
 	"repositories":
 	[
