@@ -1,16 +1,19 @@
 {
-	"auto_upgrade_last_run": 1327935809,
+	"auto_upgrade_last_run": 1328719135,
 	"installed_packages":
 	[
 		"Case Conversion",
 		"CaseConversion",
 		"ColorPicker",
 		"JsFormat",
+		"Shell-Turtlestein",
 		"sublime-2-zencoding",
-		"sublime_package_control"
+		"sublime_package_control",
+		"SublimeLinter"
 	],
 	"repositories":
 	[
-		"https://github.com/jdc0589/CaseConversion"
+		"https://github.com/jdc0589/CaseConversion",
+		"https://github.com/misfo/Shell-Turtlestein"
 	]
 }
