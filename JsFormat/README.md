@@ -1,3 +1,4 @@
+### This is essentially a mirror of [jdc0589/JsFormat](https://github.com/jdc0589/JsFormat). Please submit issues there. I will keep this repo up to date.
 ## Summary
 JsFormat is a javascipt formatting plugin for Sublime Text 2.
 It uses the commandline/python-module javascript formatter from http://jsbeautifier.org/ to format the selected text, 
